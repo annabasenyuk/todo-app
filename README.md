@@ -1,6 +1,6 @@
 # Todo App
 
-[DEMO LINK](https://annabasenyuk.github.io/react_todo-app-with-api/)
+[DEMO LINK](https://annabasenyuk.github.io/todo-app/)
 
 Project Name: Todo App
 
